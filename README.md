@@ -1,1 +1,2 @@
-# Ai-driven-
+AI-driven" describes a system or process powered and guided by artificial intelligence (AI), where AI algorithms and machine learning are integral to its functioning, decision-making, and output, often automating tasks, providing intelligent insights from data, and personalizing experiences with minimal human intervention. Examples include AI-driven analytics that uncover complex patterns in data and AI-driven development that automates coding and testing to accelerate software creation. 
+Key characteristics of AI-driven systems:
